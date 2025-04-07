@@ -19,9 +19,9 @@ email: "preciousadekwu1@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Blockchain Developer • Smart Contract Auditor • Data Scientist  
   Passionate about building secure web3 products and data-driven DeFi insights.
-twitter_username: PAdekwu
+twitter_username: "https://x.com/PAdekwu"
 linkedIn: "https://www.linkedin.com/in/precious-adekwu/"
-github_username: TheOnma
+github_username: "https://github.com/TheOnma"
 minimal_mistakes_skin: default
 search: true
 url: "https://preciousadekwu.github.io"
